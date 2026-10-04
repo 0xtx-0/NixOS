@@ -19,6 +19,7 @@
       qimgv
       gammastep
       gdb
+      gpu-screen-recorder-gtk
       jujutsu
       librewolf
       lldb
