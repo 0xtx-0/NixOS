@@ -21,6 +21,7 @@
       gdb
       gpu-screen-recorder-gtk
       jujutsu
+      libnotify
       librewolf
       lldb
       lua-language-server
